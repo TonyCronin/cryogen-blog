@@ -1,7 +1,7 @@
-{:site-title         "My Awesome Blog"
- :author             "Bob Bobbert"
- :description        "This blog is awesome"
- :site-url           "http://blogawesome.com/"
+{:site-title         "Cronin on UX"
+ :author             "Tony Cronin"
+ :description        "This blog is a collection of occasional musings by a seasoned UX"
+ :site-url           "http://cronin.co/"
  :post-root          "posts"
  :page-root          "pages"
  :post-root-uri      "posts-output"
@@ -11,11 +11,11 @@
  :blog-prefix        "/blog"
  :rss-name           "feed.xml"
  :rss-filters        ["cryogen"]
- :recent-posts       3
+ :recent-posts       5
  :post-date-format   "yyyy-MM-dd"
  :sass-src           nil
  :sass-dest          nil
- :theme              "blue"
+ :theme              "cronin"
  :resources          ["img"]
  :keep-files         [".git"]
  :disqus?            false

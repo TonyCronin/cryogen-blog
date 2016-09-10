@@ -1,8 +1,8 @@
-{:title "A Post"
+{:title "Explaining UX to a non UX audience"
  :layout :post
  :tags  ["not fetch"]}
 
-### This Post Not Fetch Enough
+### Well boss this is what I do...
 
 some stuff happened
 

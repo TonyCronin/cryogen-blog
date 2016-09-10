@@ -3,6 +3,6 @@
  :page-index 0
  :navbar? true}
 
-## Write something about something
+## I'm a UX Designer
 
 wow wow wow
