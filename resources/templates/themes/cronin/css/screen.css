@@ -9,6 +9,22 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
     font-size: 24px;
+    margin-top: 34px;
+    margin-bottom: 24px
+}
+
+h3 {
+    font-size: 18px;
+    margin-top: 34px;
+    margin-bottom: 14px;
+}
+
+p {
+    line-height: 24px;
+}
+
+ol {
+    padding-left: 24px;
 }
 
 a {
@@ -148,7 +164,8 @@ code {
 }
 
 pre, code, .hljs {
-    background-color: #f7f9fd;
+    color: #555;
+    background-color: #f2f2f2;
 }
 
 @media (min-width: 768px) {
